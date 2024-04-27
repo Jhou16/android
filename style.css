@@ -5,9 +5,7 @@
     font-family:"droid" ;
     src: url(fontes/idroid.otf) format('opentype');
 }
-.robos{
-    width: 100%;
-}
+
 *{
     margin: 0%;
     padding: 0%;
