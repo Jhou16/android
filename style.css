@@ -5,7 +5,9 @@
     font-family:"droid" ;
     src: url(fontes/idroid.otf) format('opentype');
 }
-
+.robospq{
+    width: 100%;
+}
 *{
     margin: 0%;
     padding: 0%;
